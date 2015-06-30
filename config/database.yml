@@ -20,6 +20,6 @@ test:
 
 production:
   adapter: postgresql
-  database: treebook
+  database: pinteresting
   pool: 5
   timeout: 5000
