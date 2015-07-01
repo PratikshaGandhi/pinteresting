@@ -46,3 +46,4 @@ gem 'bootstrap-sass'
 
 # To use debugger
 # gem 'debugger'
+gem 'coffee-script-source', '1.8.0'
