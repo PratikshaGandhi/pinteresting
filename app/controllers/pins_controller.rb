@@ -38,6 +38,8 @@ class PinsController < ApplicationController
     respond_with(@pin)
   end
 
+ 
+
   private
     def set_pin
       @pin = Pin.find(params[:id])
