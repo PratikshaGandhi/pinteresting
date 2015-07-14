@@ -5,6 +5,7 @@ gem 'rails', '3.2.21'
 gem 'devise'
 
 gem 'paperclip', '~> 3.0'
+gem 'masonry-rails', '~> 0.2.0'	
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
@@ -30,7 +31,8 @@ group :assets do
 end
 
 gem 'jquery-rails'
-
+gem 'jquery-turbolinks'
+gem 'turbolinks'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
