@@ -6,6 +6,9 @@ gem 'devise'
 
 gem 'paperclip', '~> 3.0'
 gem 'masonry-rails', '~> 0.2.0'	
+gem 'will_paginate', '~> 3.0'
+gem 'will_paginate-bootstrap'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
